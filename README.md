@@ -367,7 +367,7 @@ La première fois que l'on veut synchroniser des changement sur une nouvelle bra
 repository sur GitHub, il faut lancer la commande suivante (seulement la première fois) :
 ```bash
 # Depuis la branche en question
-git push --set-upstream origin goodbye_world
+git push --set-upstream origin <BRANCH_NAME>
 ```
 
 ### 🌹 Fusionner deux branches
